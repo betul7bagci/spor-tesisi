@@ -14,6 +14,9 @@ Ayrıca projemde yararlandığım kütüphaneler;
 -React-icons
 -React-router-dom
 
+Projemin vercel.com linki;
+spor-tesisi-fxl9isbgb-betul7bagcis-projects.vercel.app
+
 Öğrenmek için daha önümde uzun bir yol olduğunun farkındayım. Fakat temel seviyede kendi bilgilerim ve chatgpt'nin de yardımıyla istediğim sayfayı istediğim şekilde oluşturabildiğim için mutluyum. öncelikle kendi beklentilerimi karşıladığım için 
 
 Destekleriniz için ekibinize teşekkür ederim,
