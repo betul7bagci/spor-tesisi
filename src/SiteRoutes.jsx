@@ -17,7 +17,7 @@ function SiteRoutes({ handleLogin, user }) {
       <Route path="/record" element={<Record />} />{" "}
       <Route path="/contact" element={<Contact />} />
       <Route path="/faci" element={<Faci />} />
-      <Route path="/products" element={<ProductLayout />}>
+      <Route path="/products" element={<ProductLayOut />}>
         <Route path="product/:productId" element={<Product />} />
       </Route>
       <Route path="/login" element={<Login handleLogin={handleLogin} />} />
