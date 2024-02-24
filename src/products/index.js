@@ -1,5 +1,5 @@
 import Categories from "./Categories";
 import Product from "./Product";
-import ProductLayout from "./ProductLayout";
+import ProductLayOut from "./ProductLayOut";
 
-export { Categories, Product, ProductLayout };
+export { Categories, Product, ProductLayOut };
