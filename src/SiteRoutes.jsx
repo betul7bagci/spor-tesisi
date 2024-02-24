@@ -7,7 +7,7 @@ import Contact from "./pages/Contact";
 import Faci from "./pages/Faci";
 import Login from "./pages/Login";
 import PagesNotFound from "./pages/PagesNotFound";
-import { ProductLayout, Product } from "./products";
+import { ProductLayOut, Product } from "./products";
 
 function SiteRoutes({ handleLogin, user }) {
   return (
